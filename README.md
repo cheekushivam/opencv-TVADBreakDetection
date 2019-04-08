@@ -15,4 +15,4 @@
 # Library of OpenCV Used For Detection
 
 * cv.TM_CCOEFF_NORMED
-[Doc](https://docs.opencv.org/trunk/d4/dc6/tutorial_py_template_matching.html)
+[Doc For OpenCV Function Described Above](https://docs.opencv.org/trunk/d4/dc6/tutorial_py_template_matching.html)
