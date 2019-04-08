@@ -1,4 +1,4 @@
- # (TV AdBreak Detection Using OpenCV Library)
+ #  TV AdBreak Detection Using OpenCV Library
 
 * Template File : indiaToday.png
 * Output WaterMarks : Two Image Files Present Above
