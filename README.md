@@ -1,8 +1,7 @@
-# opencv-TVADBreakDetection  
-# (TV AdBreak Detection Using OpenCV Library)
+ # (TV AdBreak Detection Using OpenCV Library)
 
-Template File : # indiaToday.png
-Output WaterMarks : # Two Image Files
+* Template File : indiaToday.png
+* Output WaterMarks : Two Image Files Present Above
 
 # Inputs To be Provided To Detection Function
 * Template Image
